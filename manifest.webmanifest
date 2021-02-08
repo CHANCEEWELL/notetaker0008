@@ -1,0 +1,15 @@
+{
+  "name": "Notetaker",
+  "short_name": "Notetaker",
+  "icons": [
+    {
+      "src": "/assets/images/note_icon.png",
+      "sizes": "225x225",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
