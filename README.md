@@ -6,6 +6,8 @@ An application that can be used to write, save, and delete notes. This applicati
 ## Project Link
 [Note Taker](https://vast-taiga-90852.herokuapp.com/)
 
+GitHub Pages: https://chanceewell.github.io/notetaker0008/
+
 
 
 ## User Story
