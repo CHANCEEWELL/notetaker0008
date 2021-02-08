@@ -7,11 +7,6 @@ An application that can be used to write, save, and delete notes. This applicati
 [Note Taker](https://vast-taiga-90852.herokuapp.com/)
 
 
-### Home Page
-![Home Page](/public/assets/images/note_taker_index.png)
-
-### Adding A Note
-![Add, Edit, or Delete](/public/assets/images/note_taker_addNote.png)
 
 ## User Story
 AS A user, I want to be able to write and save notes
